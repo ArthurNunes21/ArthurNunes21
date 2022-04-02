@@ -1,4 +1,4 @@
-- 👋 Hello!, I’m @Arthur Nunes
+- 👋 Hello!, I’m @ArthurNunes from Brazil 
 - 👀 I’m interested in Javascript,Node.Js,ReactJs,MySQL
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Back-end repositories
