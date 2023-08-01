@@ -4,7 +4,7 @@
   <li>Name: Arthur Nunes </li>
   <li>I am from: Brazil </li>
   <li>Age: I'm 18 </li>
-  <li>I love Coding<li>:sparkling_heart:
+  <li>I love Coding :sparkling_heart:<li>
  </al>
  
  <h1><i>Skills<i></h1>
